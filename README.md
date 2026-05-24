@@ -24,5 +24,25 @@ Each folder contains one C solution file based on the original homework code.
 - `15_sport_drink_season`
 - `16_huahua_mountain_route`
 - `17_robot_collision`
+- `18_array_stars`
+- `19_merge_two_word_lists`
+- `20_continuous_input_fraction_sum`
+- `21_is_number`
+- `22_lowercase_to_uppercase_ii`
+- `23_swap_adjacent_numbers`
+- `24_special_value`
+- `25_triangle_classification`
+- `26_string_to_binary`
+- `27_input_output_test_ii`
+- `28_search_substring_position_ii`
+- `29_string_sort`
+- `30_reversed_letters`
+- `31_no_passing_notes`
+- `32_dynamic_integer_sort`
+- `33_class_score_average`
+- `34_network_admin_day`
+- `35_mountains_and_basins`
+- `36_pubg_chicken_dinner`
+- `37_flash_hidden_ability`
 
 
