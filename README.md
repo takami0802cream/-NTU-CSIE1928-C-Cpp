@@ -25,7 +25,4 @@ Each folder contains one C solution file based on the original homework code.
 - `16_huahua_mountain_route`
 - `17_robot_collision`
 
-## Notes
 
-- Source files are kept close to the original student submissions.
-- Some problem titles are translated or shortened for folder naming.
