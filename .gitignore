@@ -1,0 +1,8 @@
+*.exe
+*.out
+*.obj
+*.o
+*.ilk
+*.pdb
+*.idb
+*.log
